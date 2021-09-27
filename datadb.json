@@ -55,7 +55,7 @@
     },
     {
         "key": 7,
-        "name": "Sufi Ahmed Hamim",
+        "name": "Shafin Islam",
         "salary": 5000,
         "designation": "Product Manager",
         "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/p07.png",
@@ -64,7 +64,7 @@
     },
     {
         "key": 8,
-        "name": "Sufi Ahmed Hamim",
+        "name": "Minhaj Islam",
         "salary": 80000,
         "designation": "Software Engineer",
         "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/p08.png",
@@ -97,5 +97,32 @@
         "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/p11.png",
         "country": "United States",
         "experience": "6 years"
+    },
+    {
+        "key": 12,
+        "name": "Ajhar Uddin",
+        "salary": 45000,
+        "designation": "Developer",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/p12.png",
+        "country": "United States",
+        "experience": "6 years"
+    },
+    {
+        "key": 13,
+        "name": "Dihan Mojaffar",
+        "salary": 35000,
+        "designation": "Gamer",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/p13.png",
+        "country": "United States",
+        "experience": "6 years"
+    },
+    {
+        "key": 14,
+        "name": "Mahdi Hasan",
+        "salary": 78000,
+        "designation": "Web Designer",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/p14.png",
+        "country": "Bangladesh",
+        "experience": "8 years"
     }
 ]
