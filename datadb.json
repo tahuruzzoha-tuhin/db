@@ -10,37 +10,37 @@
     },
     {
         "key": 1,
-        "name": "Jhankar Mahbub",
-        "salary": 10900000,
-        "designation": "CEO & Founder",
-        "image": "https://web.programming-hero.com/public/1625573122618.png",
-        "country": "United States",
-        "experience": "6 years"
+        "name": "Rasel Ahmed",
+        "salary": 120000,
+        "designation": "Product Manager",
+        "image": "https://web.programming-hero.com/public/1625419447111.png",
+        "country": "Bangladesh",
+        "experience": "4 years"
     },
     {
         "key": 1,
-        "name": "Jhankar Mahbub",
-        "salary": 10900000,
-        "designation": "CEO & Founder",
-        "image": "https://web.programming-hero.com/public/1625573122618.png",
-        "country": "United States",
-        "experience": "6 years"
+        "name": "Karina Islam",
+        "salary": 100000,
+        "designation": "Advisor",
+        "image": "https://web.programming-hero.com/public/1625573160811.png",
+        "country": "Ghana",
+        "experience": "16 years"
     },
     {
         "key": 1,
-        "name": "Jhankar Mahbub",
-        "salary": 10900000,
-        "designation": "CEO & Founder",
-        "image": "https://web.programming-hero.com/public/1625573122618.png",
-        "country": "United States",
-        "experience": "6 years"
+        "name": "Shajedul Karim",
+        "salary": 700000,
+        "designation": "Chief Operating Officer",
+        "image": "https://web.programming-hero.com/public/1625573176714.png",
+        "country": "Hunululu",
+        "experience": "3.5 years"
     },
     {
         "key": 1,
-        "name": "Jhankar Mahbub",
-        "salary": 10900000,
-        "designation": "CEO & Founder",
-        "image": "https://web.programming-hero.com/public/1625573122618.png",
+        "name": "Sufi Ahmed Hamim",
+        "salary": 40000,
+        "designation": "Product Designer",
+        "image": "https://web.programming-hero.com/public/1625573189607.png",
         "country": "United States",
         "experience": "6 years"
     }
