@@ -4,43 +4,97 @@
         "name": "Jhankar Mahbub",
         "salary": 10900000,
         "designation": "CEO & Founder",
-        "image": "https://web.programming-hero.com/public/1625573122618.png",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/p01.png",
         "country": "United States",
         "experience": "6 years"
     },
     {
-        "key": 1,
+        "key": 2,
         "name": "Rasel Ahmed",
         "salary": 120000,
         "designation": "Product Manager",
-        "image": "https://web.programming-hero.com/public/1625419447111.png",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/p02.png",
         "country": "Bangladesh",
         "experience": "4 years"
     },
     {
-        "key": 1,
+        "key": 3,
         "name": "Karina Islam",
         "salary": 100000,
         "designation": "Advisor",
-        "image": "https://web.programming-hero.com/public/1625573160811.png",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/p03.png",
         "country": "Ghana",
         "experience": "16 years"
     },
     {
-        "key": 1,
+        "key": 4,
         "name": "Shajedul Karim",
         "salary": 700000,
         "designation": "Chief Operating Officer",
-        "image": "https://web.programming-hero.com/public/1625573176714.png",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/p04.png",
         "country": "Hunululu",
         "experience": "3.5 years"
     },
     {
-        "key": 1,
+        "key": 5,
         "name": "Sufi Ahmed Hamim",
         "salary": 40000,
         "designation": "Product Designer",
-        "image": "https://web.programming-hero.com/public/1625573189607.png",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/p05.png",
+        "country": "United States",
+        "experience": "6 years"
+    },
+    {
+        "key": 6,
+        "name": "Mr. A",
+        "salary": 60000,
+        "designation": "Designer",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/p06.png",
+        "country": "United States",
+        "experience": "6 years"
+    },
+    {
+        "key": 7,
+        "name": "Sufi Ahmed Hamim",
+        "salary": 5000,
+        "designation": "Product Manager",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/p07.png",
+        "country": "India",
+        "experience": "5 years"
+    },
+    {
+        "key": 8,
+        "name": "Sufi Ahmed Hamim",
+        "salary": 80000,
+        "designation": "Software Engineer",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/p08.png",
+        "country": "Nepal",
+        "experience": "2 years"
+    },
+    {
+        "key": 9,
+        "name": "Tahuruzzoha",
+        "salary": 40000,
+        "designation": "Web Developer",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/p09.png",
+        "country": "United States",
+        "experience": "6 years"
+    },
+    {
+        "key": 10,
+        "name": "Anik Mahbub",
+        "salary": 90000,
+        "designation": "DevOps",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/p10.png",
+        "country": "United States",
+        "experience": "6 years"
+    },
+    {
+        "key": 11,
+        "name": "Fatim Ali",
+        "salary": 40000,
+        "designation": "Engineer",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/p11.png",
         "country": "United States",
         "experience": "6 years"
     }
