@@ -5,7 +5,8 @@
         "price": 21,
         "author": "Jhankar Mahbub",
         "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/1.jpg",
-        "enrolled": 489
+        "enrolled": 489,
+        "details": "2021 Complete Python Bootcamp From Zero to Hero in Python Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games"
     },
     {
         "key": 2,
@@ -13,7 +14,8 @@
         "price": 15,
         "author": "Emdadul Haque",
         "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/2.jpg",
-        "enrolled": 67
+        "enrolled": 67,
+        "details": "Explore the latest search insights and trends that will shape the world in 2021. Be there when it matters. Reach your customers when they are searching for you. Latest Search Trends. Year in Search Report."
     },
     {
         "key": 3,
@@ -21,7 +23,8 @@
         "price": 32,
         "author": "Tahuruzzoha Tuhin",
         "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/3.jpg",
-        "enrolled": 750
+        "enrolled": 750,
+        "details": "Linux Fundamentals is a challenging course that focuses on the fundamental tools and concepts of Linux and Unix. Students gain proficiency using the command line. Beginners develop a solid foundation in Unix."
     },
     {
         "key": 4,
@@ -29,6 +32,7 @@
         "price": 19,
         "author": "Mahdi Hasan",
         "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/4.jpg",
-        "enrolled": 230
+        "enrolled": 230,
+        "details": "Maximise Reach To Your Target Audience With Various Ad Formats. Grow Your Brand & Business With Full Funnel Experience On Google Ads. Get Started. Target The Right Audience. Only Pay For Results."
     }
 ]
