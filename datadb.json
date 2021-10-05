@@ -86,5 +86,45 @@
         "author": "Sumit khan",
         "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/11.jpg",
         "enrolled": 523
+    },
+    {
+        "key": 12,
+        "name": "Git & Github",
+        "price": 11,
+        "author": "Tahmidul Azom",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/12.jpg",
+        "enrolled": 378
+    },
+    {
+        "key": 13,
+        "name": "Attentive in Learning",
+        "price": 7,
+        "author": "Ananda Chakraborty",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/13.jpg",
+        "enrolled": 1650
+    },
+    {
+        "key": 14,
+        "name": "Brain Storming",
+        "price": 27,
+        "author": "Rongon Chowdhury",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/14.jpg",
+        "enrolled": 129
+    },
+    {
+        "key": 15,
+        "name": "API Testing in Ubuntu with Postman",
+        "price": 67,
+        "author": "Nazmus Sakib",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/15.jpg",
+        "enrolled": 710
+    },
+    {
+        "key": 16,
+        "name": "Machine learning",
+        "price": 93,
+        "author": "Deen Mohammad",
+        "image": "https://raw.githubusercontent.com/tahuruzzoha-tuhin/db/main/16.jpg",
+        "enrolled": 629
     }
 ]
